@@ -1,0 +1,57 @@
+body {
+    /* Grey Background so that white stripe doesn't bleed into background  */
+    background: #ccc;
+  }
+  
+  .mainbox {
+  
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+  }
+
+  .stripe {
+    width: 250px;
+    height: 50px;
+  }
+  
+  #saffron {
+    background: #FF9933;
+  }
+  
+  #white {
+    background: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #green {
+    background: #138808;
+  }
+ 
+  .ashok_chakra {
+    height: 40px;
+    width: 40px;
+  }
+ 
+  .message {
+    text-align: center;
+  }
+  
+  .message span{
+   
+    color: #000080;
+  }
+  
+  .repd{
+      color: #0c0c2a;
+      padding: 8px;
+      border: 2px solid rgb(255, 253, 253);
+      border-radius: 8px;
+      margin-top: 60px;
+  }
+  #audio{
+    display: inline;
+    background-color: royalblue;
+  }
